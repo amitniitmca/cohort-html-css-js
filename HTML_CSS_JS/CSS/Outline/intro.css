@@ -1,0 +1,15 @@
+#mydiv1{
+    border-style: solid;
+    border-width: medium;
+    outline-style: dotted;
+    outline-width: 10px;
+    outline-color: red;
+}
+
+#mydiv2{
+    border-style: double;
+    border-width: thick;
+    outline-style: dashed;
+    outline-width: 10px;
+    outline-color: green;
+}

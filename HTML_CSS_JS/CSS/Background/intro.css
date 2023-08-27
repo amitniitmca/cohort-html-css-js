@@ -1,0 +1,10 @@
+body{
+    background-image: url("small_london_bridge.jpg");
+    background-repeat: no-repeat;   
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+#mydiv{
+    background-color: yellow;
+}

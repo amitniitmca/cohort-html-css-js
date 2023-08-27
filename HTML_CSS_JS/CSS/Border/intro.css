@@ -1,0 +1,15 @@
+#mydiv1{
+    border-style: outset;
+    border-width: medium;
+}
+
+#mydiv2{
+    border-style: double;
+    border-width: thick;
+    /* border-radius: 2in; */
+    text-align:center;
+    border-color : red;
+    border-top-left-radius: 1in;
+    border-bottom-right-radius: 1in;
+    background-color: yellow;
+}

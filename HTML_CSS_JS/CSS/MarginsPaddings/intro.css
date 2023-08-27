@@ -1,0 +1,11 @@
+#mydiv1{
+    border-style: outset;
+    border-width: medium;
+}
+
+#mydiv2{
+    border-style: double;
+    border-width: thick;
+    margin : 10px;
+    padding-left: 20px;
+}

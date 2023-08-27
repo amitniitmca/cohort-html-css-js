@@ -1,0 +1,11 @@
+a[target="_self"]{
+    color: red;
+}
+
+a[target="_blank"]{
+    color: blue;
+}
+
+a[target="_parent"]{
+    color: green;
+}

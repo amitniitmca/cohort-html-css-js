@@ -1,0 +1,13 @@
+#mydiv1{
+    border-style: solid;
+    border-width: medium;
+    width : 50%;
+    max-width: 200px;
+    height : 75%;
+    max-height: 50%;
+}
+
+#mydiv2{
+    border-style: double;
+    border-width: thick;
+}

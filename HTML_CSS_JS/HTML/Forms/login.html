@@ -1,0 +1,45 @@
+<HTML>
+    <HEAD>
+        <title>Login Form</title>
+        <style>
+            #pw{
+                margin-left : 0.1%;
+                margin-top : 10px;
+            }
+            #buttonDiv{
+                margin : 10px;
+                margin-left:50px;
+            }
+            #submitButton{
+                margin-right : 10px;
+            }
+            #resetButton {
+                margin-left : 10px;
+            }
+            #myform{
+                border-style: double;
+                width : 40%;
+                padding: 2%;
+                text-align: center;
+                border-color: red;
+                border-top-left-radius: 40%;
+                border-bottom-right-radius: 40%;
+                color: blue;
+            }
+        </style>
+    </HEAD>
+    <BODY>
+        <form id="myform">
+            <label for="uname">Username :</label>
+            <input type="text" name="username" 
+                    id="uname" required> <br>
+            <label for="pw">Password :</label>
+            <input type="password" name="password" id="pw" required>
+            <br>
+            <div id="buttonDiv">
+                <input type="submit" id="submitButton">
+                <input type="reset" id="resetButton">
+            </div>
+        </form>
+    </BODY>
+</HTML>
